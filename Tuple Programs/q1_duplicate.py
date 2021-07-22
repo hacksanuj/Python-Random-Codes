@@ -30,21 +30,3 @@ for i in raw_list:
         needed_list.append(i)
 
 print('\nThe Tuple is :: ', tuple(needed_list))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
