@@ -1,38 +1,37 @@
-# dict_raw = {}
+dict_raw = {}
 
-# # tuple 1
-# raw_list1 = []
-# val = int(input('Enter the limit of 1st tuple :: '))
-# print()
+# tuple 1
+raw_list1 = []
+val = int(input('Enter the limit of 1st tuple :: '))
+print()
 
-# for count, i in enumerate(range(val)):
-#     value = input(f'Enter the value {count + 1} :: ')
-#     raw_list1.append(value)
+for count, i in enumerate(range(val)):
+    value = input(f'Enter the value {count + 1} :: ')
+    raw_list1.append(value)
 
-# raw_tuple1 = tuple(raw_list1)
-# print('\nThe 1st Tuple is :: ', raw_tuple1)
-
-
-# # tuple 2
-# raw_list2 = []
-
-# val = int(input('\nEnter the limit of 2nd tuple :: '))
-# print()
-
-# for count, i in enumerate(range(val)):
-#     value = input(f'Enter the value {count + 1} :: ')
-#     raw_list2.append(value)
-
-# raw_tuple2 = tuple(raw_list2)
-# print('\nThe 2nd Tuple is :: ', raw_tuple2)
+raw_tuple1 = tuple(raw_list1)
+print('\nThe 1st Tuple is :: ', raw_tuple1)
 
 
-# # dictionary
-# for i in range(0, len(raw_tuple1)):
-# 	dict_raw.update({raw_tuple1[i]:raw_tuple2[i]})
+# tuple 2
+raw_list2 = []
 
-# print('\nThe dictionary is :: ', dict_raw)
+val = int(input('\nEnter the limit of 2nd tuple :: '))
+print()
 
+for count, i in enumerate(range(val)):
+    value = input(f'Enter the value {count + 1} :: ')
+    raw_list2.append(value)
+
+raw_tuple2 = tuple(raw_list2)
+print('\nThe 2nd Tuple is :: ', raw_tuple2)
+
+
+# dictionary
+for i in range(0, len(raw_tuple1)):
+	dict_raw.update({raw_tuple1[i]:raw_tuple2[i]})
+
+print('\nThe dictionary is :: ', dict_raw)
 
 
 # 2nd method
@@ -56,30 +55,3 @@ new_tuple = tuple(new_list)
 print('\nThe Tuple is :: ', new_tuple)
 
 print('\nThe dictionary is :: ', dict(new_tuple))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
