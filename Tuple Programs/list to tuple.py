@@ -2,8 +2,12 @@ str_values = input('Enter the values with comma :: ')
 
 print('\nThe values are :: ', str_values)
 
-val_list = str_values.split(',')  # converting string into list
+
+ # converting string into list
+val_list = str_values.split(',') 
 print('\n\nThe list is :: ', val_list)
 
-val_tuple = tuple(val_list)  # converting list into tuple
+
+# converting list into tuple
+val_tuple = tuple(val_list)  
 print('\nThe tuple is :: ', val_tuple)
