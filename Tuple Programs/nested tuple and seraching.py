@@ -30,17 +30,3 @@ print('\nThe nested tuple is :: ', new_tuple)
 search_val = input('\nEnter the value which you want to search :: ')
 
 checkTuple(new_tuple, search_val)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
