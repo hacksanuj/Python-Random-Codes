@@ -8,20 +8,3 @@ print('Right trimmed string ::', string.rstrip())
 
 print('\nRemoving spaces from both side ::')
 print('Both side trimmed string ::', string.strip())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
