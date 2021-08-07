@@ -14,6 +14,3 @@ for i in new_str:
 		res_list.append(i)
 
 print('\n final string is :: ',res_list)
-
-
-
