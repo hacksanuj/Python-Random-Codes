@@ -1,7 +1,7 @@
 👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬👨‍💻🧬
 # Python Random Code
 
-This repo contains Python program/code which i made in free time. You can check them and see through this codes.
+This repo contains Python program/code which I made in free time. You can check them and see through these codes.
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
