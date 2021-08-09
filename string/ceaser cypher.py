@@ -1,6 +1,5 @@
 # import caesarcipher as cs
 
-
 plain_text = input('Enter the plain text :: ')
 value = int(input('\nEnter the shift :: '))
 
@@ -9,6 +8,8 @@ print('\n\nThe encripted string is ::', end = ' ')
 print(hello.encoded)
 
 
+
+#############################################################################################################################################################################
 
 # simple method without libries
 
@@ -55,6 +56,4 @@ else:
 			result += ' '
 
 	print(result)
-
-
 	
