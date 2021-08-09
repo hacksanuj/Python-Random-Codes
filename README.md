@@ -4,9 +4,7 @@
 This repo contains Python program/code which i made in free time. You can check them and see through this codes.
 
 
-
-
-## Tuple Program/Codes
+##👨‍💻👩‍💻 Tuple Program/Codes 👨‍💻👩‍💻
 
 [Check element is present](https://github.com/LemonShot/PythonRandonCodes/blob/main/Tuple%20Programs/check%20element%20is%20present.py)
 
@@ -24,7 +22,7 @@ This repo contains Python program/code which i made in free time. You can check 
 
 
 
-## Strings Program/Codes
+##👨‍💻👩‍💻 Strings Program/Codes 👨‍💻👩‍💻
 
 [Converting words into uppercase if given length is matched](https://github.com/LemonShot/PythonRandonCodes/blob/main/string/converting%20words%20into%20uppercase%20if%20given%20length%20is%20matched.py)
 
