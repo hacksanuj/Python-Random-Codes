@@ -15,8 +15,6 @@ small_alpha = 'abcdefghijklmnopqrstuvwxyz'
 capital_alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 result = ''
-
-
 str_val = input('Enter the text here :: ')
 
 print('\n1. For encription in forward dicrection \n2. For encription in backword direction')
