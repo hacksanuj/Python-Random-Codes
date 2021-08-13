@@ -3,7 +3,6 @@ def pal(string):
         return True
     else:
         return False
-  
 
 def sort_pal(sentence):
     new_list = []
@@ -26,7 +25,5 @@ def sort_pal(sentence):
     for i in str_list:
         print(i, end =" ")
 
-
 sentence = input('Enter the scentence :: ')
-  
 sort_pal(sentence)
