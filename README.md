@@ -32,6 +32,10 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Swapping first and last letter in String](https://github.com/LemonShot/PythonRandonCodes/blob/main/string/swapping%20first%20and%20last%20letter.py)
 
+[Sorted plandrome in list](https://github.com/LemonShot/PythonRandonCodes/blob/main/string/sorted%20plandrome%20in%20list.py)
 
+[String to list and joining with sign](https://github.com/LemonShot/PythonRandonCodes/blob/main/string/string%20to%20list%20and%20joining%20with%20sign.py)
+
+[Swap character in string](https://github.com/LemonShot/PythonRandonCodes/blob/main/string/swap%20char%20in%20string.py)
 
   
