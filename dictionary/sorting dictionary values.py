@@ -9,7 +9,6 @@ for count, i in enumerate(range(val)):
 	dict_raw.update({key : value})
 	print()
 
-
 print('\nThe dictionary is :: ', dict_raw)
 
 print('''\n1.To sort in Ascending order enter :: asc
@@ -46,5 +45,3 @@ else:
 	            break
 
 	print('\nThe sorted list ::', sorted_dict)
-
-
