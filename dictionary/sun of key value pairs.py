@@ -9,7 +9,6 @@ for count, i in enumerate(range(val)):
 	dict_raw.update({key : value})
 	print()
 
-
 print('\nThe dictionary is :: ', dict_raw)
 
 sum_keys = sum(dict_raw.keys())
