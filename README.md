@@ -41,5 +41,7 @@ This repo contains Python program/code which I made in free time. You can check 
   
 ## Dictionary Program/Codes👨‍💻👩‍💻
 
-[sorting dictionary values](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/sorting%20dictionary%20values.py)
+[Sorting dictionary values](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/sorting%20dictionary%20values.py)
+
+[Sum of key/value pairs](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/sun%20of%20key%20value%20pairs.py)
 
