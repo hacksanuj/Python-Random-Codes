@@ -45,3 +45,5 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Sum of key/value pairs](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/sun%20of%20key%20value%20pairs.py)
 
+[Concanated dictionary](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/concanated%20dictionary.py)
+
