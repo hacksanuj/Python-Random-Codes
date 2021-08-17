@@ -40,3 +40,4 @@ needed_dict = dict1.copy()
 needed_dict.update(dict2)
 
 print(f'\n The merge dictionary is :: {needed_dict}')
+
