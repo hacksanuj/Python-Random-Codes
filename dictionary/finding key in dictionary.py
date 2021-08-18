@@ -9,7 +9,6 @@ for count, i in enumerate(range(val)):
 	dict_raw.update({key : value})
 	print()
 
-
 print('\nThe dictionary is :: ', dict_raw)
 
 val_key = input('\nEnter the key value which you want to search :: ')
@@ -19,3 +18,4 @@ if val_key in dict_raw.keys():
 	print('The value of key is :: ', dict_raw.get(val_key))
 else:
 	print('\nThe key is not present')
+	
