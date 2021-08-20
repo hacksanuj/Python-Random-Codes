@@ -47,3 +47,5 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Concanated dictionary](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/concanated%20dictionary.py)
 
+[Printing keys and values](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/printing%20keys%20and%20values.py)
+
