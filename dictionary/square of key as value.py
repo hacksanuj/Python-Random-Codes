@@ -1,5 +1,4 @@
 dict_raw = {}
-    
 value = int(input('Enter the value to which you want to generate dictionary :: '))
 
 for i in range(0, value):
