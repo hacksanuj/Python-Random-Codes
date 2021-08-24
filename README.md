@@ -49,3 +49,5 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Printing keys and values](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/printing%20keys%20and%20values.py)
 
+[square of key as value](https://github.com/LemonShot/PythonRandonCodes/blob/main/dictionary/square%20of%20key%20as%20value.py)
+
