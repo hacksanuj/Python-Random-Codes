@@ -55,4 +55,4 @@ This repo contains Python program/code which I made in free time. You can check 
 
 ## OOPS in Python 
 
-[Abstraction]()
+[Abstraction](https://github.com/hacksanuj/Python-Random-Codes/blob/main/oops%20python/abstraction.py)
