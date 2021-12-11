@@ -62,3 +62,7 @@ This repo contains Python program/code which I made in free time. You can check 
 [Polymorphisim](https://github.com/hacksanuj/Python-Random-Codes/blob/main/oops%20python/polymorphisim.py)
 
 [Multiple Inheritance](https://github.com/hacksanuj/Python-Random-Codes/blob/main/oops%20python/multiple_inheritance.py)
+
+## Sorting Tech using Python
+
+[Qwik Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
