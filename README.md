@@ -66,3 +66,5 @@ This repo contains Python program/code which I made in free time. You can check 
 ## Sorting Tech using Python
 
 [Quick Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
+
+[easy quick sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/new_quick_sort.py)
