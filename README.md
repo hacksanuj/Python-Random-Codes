@@ -65,4 +65,4 @@ This repo contains Python program/code which I made in free time. You can check 
 
 ## Sorting Tech using Python
 
-[Qwik Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
+[Quick Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
