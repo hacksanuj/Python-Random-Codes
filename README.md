@@ -71,4 +71,6 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Bubble Sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/sorting_tech.py)
 
+[Selection Sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/sorting_tech.py)
+
 
