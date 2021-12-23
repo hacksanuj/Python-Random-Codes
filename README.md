@@ -73,4 +73,5 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Selection Sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/sorting_tech.py)
 
+[Inserction Sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/sorting_tech.py)
 
