@@ -68,3 +68,7 @@ This repo contains Python program/code which I made in free time. You can check 
 [Quick Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
 
 [easy quick sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/new_quick_sort.py)
+
+[Bubble Sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/sorting_tech.py)
+
+
