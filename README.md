@@ -75,3 +75,5 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Inserction Sort](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/sorting_tech.py)
 
+[Linear search and Binary search](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/searching.py)
+
