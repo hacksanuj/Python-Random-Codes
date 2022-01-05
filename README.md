@@ -10,6 +10,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Factorial](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/final_pracical.py)
 
+[Area and peremeter of rectangle](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/rectangle.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
