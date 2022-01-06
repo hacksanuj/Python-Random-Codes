@@ -12,6 +12,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Area and peremeter of rectangle](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/rectangle.py)
 
+[List Iteration](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/list_iteration.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
