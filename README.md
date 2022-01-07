@@ -14,6 +14,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [List Iteration](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/list_iteration.py)
 
+[Calculator](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/numbers.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
