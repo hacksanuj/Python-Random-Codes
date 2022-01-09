@@ -77,6 +77,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Multiple Inheritance](https://github.com/hacksanuj/Python-Random-Codes/blob/main/oops%20python/multiple_inheritance.py)
 
+[Basic Classes](https://github.com/hacksanuj/Python-Random-Codes/blob/main/oops%20python/citizen.py)
+
 ## Sorting Tech using Python
 
 [Quick Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
