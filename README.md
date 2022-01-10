@@ -16,6 +16,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Calculator](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/numbers.py)
 
+[System argument](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/fizzbuzz.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
