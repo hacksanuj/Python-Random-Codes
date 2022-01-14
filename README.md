@@ -99,3 +99,5 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Remove duplicate element from List](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/remove_duplicate.py)
 
+## Functions
+
