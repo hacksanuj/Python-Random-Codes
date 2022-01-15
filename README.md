@@ -102,3 +102,5 @@ This repo contains Python program/code which I made in free time. You can check 
 ## Functions
 
 [Recursion](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/recursive_function.py)
+
+[Perfect Numebr](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/perfect_number.py)
