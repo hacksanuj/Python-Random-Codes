@@ -108,3 +108,5 @@ This repo contains Python program/code which I made in free time. You can check 
 [Perfect Numebr](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/perfect_number.py)
 
 [Employee](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/employee_function.py)
+
+[Change position](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/changeposition.py)
