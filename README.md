@@ -111,4 +111,4 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Change position](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/changeposition.py)
 
-[Smallest in list]()
+[Smallest in list](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/smallerst.py)
