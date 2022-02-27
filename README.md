@@ -103,6 +103,12 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [List methods](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/list%20methods.py)
 
+[Change position](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/changeposition.py)
+
+[Smallest in list](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/smallerst.py)
+
+[Combine List](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/comine_color_list.py)
+
 ## Functions
 
 [Recursion](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/recursive_function.py)
@@ -110,9 +116,3 @@ This repo contains Python program/code which I made in free time. You can check 
 [Perfect Numebr](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/perfect_number.py)
 
 [Employee](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/employee_function.py)
-
-[Change position](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/changeposition.py)
-
-[Smallest in list](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/smallerst.py)
-
-[Combine List](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/comine_color_list.py)
