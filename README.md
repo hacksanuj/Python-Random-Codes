@@ -81,7 +81,7 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Basic Classes](https://github.com/hacksanuj/Python-Random-Codes/blob/main/oops%20python/citizen.py)
 
-## Sorting Tech using Python
+## Sorting Tech using Python 👨‍💻👩‍💻
 
 [Quick Sorting](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/quick_sort.py)
 
@@ -95,7 +95,7 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Linear search and Binary search](https://github.com/hacksanuj/Python-Random-Codes/blob/main/soring/searching.py)
 
-## List 
+## List 👨‍💻👩‍💻
 
 [Remove duplicate element from List](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/remove_duplicate.py)
 
@@ -109,7 +109,7 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Combine List](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/comine_color_list.py)
 
-## Functions
+## Functions 👨‍💻👩‍💻
 
 [Recursion](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/recursive_function.py)
 
