@@ -101,6 +101,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [GCD](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/gcd.py)
 
+[List methods](https://github.com/hacksanuj/Python-Random-Codes/blob/main/List/list%20methods.py)
+
 ## Functions
 
 [Recursion](https://github.com/hacksanuj/Python-Random-Codes/blob/main/functions/recursive_function.py)
