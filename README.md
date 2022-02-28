@@ -18,6 +18,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [System argument](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/fizzbuzz.py)
 
+[Absolute Value](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/absolute_value.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
