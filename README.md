@@ -20,6 +20,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Absolute Value](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/absolute_value.py)
 
+[Star Pattern](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/pattern.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
