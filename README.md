@@ -23,7 +23,7 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Star Pattern](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/pattern.py)
 
-[Heart PAttern](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/loop_heart_pattern.py)
+[Heart Pattern](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/loop_heart_pattern.py)
 
 
 
