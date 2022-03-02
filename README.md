@@ -25,6 +25,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Heart Pattern](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/loop_heart_pattern.py)
 
+[Square or rectangle](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/square_or_rectangle.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
