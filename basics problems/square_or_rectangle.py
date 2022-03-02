@@ -14,9 +14,9 @@ else:
 # ternary concept
 
 
-# length = int(input('Enter the length:: '))
-# breadth = int(input('\nEnter the breadth:: '))
+length = int(input('Enter the length:: '))
+breadth = int(input('\nEnter the breadth:: '))
 
-# result = 'square' if length == breadth else 'rectangle'
+result = 'square' if length == breadth else 'rectangle'
 
-# print('\n\nThe Shape is ::' + result)
+print('\n\nThe Shape is ::' + result)
