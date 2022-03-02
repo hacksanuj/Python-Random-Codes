@@ -7,8 +7,7 @@ hello = cs.CaesarCipher(plain_text ,offset = value)
 print('\n\nThe encripted string is ::', end = ' ')
 print(hello.encoded)
 
-#############################################################################################################################################################################
-
+# 2nd Method
 # simple method without libries
 
 small_alpha = 'abcdefghijklmnopqrstuvwxyz'
