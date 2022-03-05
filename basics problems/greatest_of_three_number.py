@@ -22,15 +22,16 @@ print("\nThe minimum number is:: ", min(a, b, c))
 
 
 # simple method
-# a = int(input('Enter the number A::'))
-# b = int(input('\nEnter the number B::'))
-# c = int(input('\nEnter the number C::'))
 
-# if a > b and a > c:
-#   print('\n\nThe greatest is A',a)
+a = int(input('Enter the number A::'))
+b = int(input('\nEnter the number B::'))
+c = int(input('\nEnter the number C::'))
 
-# elif b > c and b > a:
-#   print('\n\nThe greatest is B::',b) 
+if a > b and a > c:
+  print('\n\nThe greatest is A',a)
 
-# else:
-#   print('\n\nThe greatest is C::', c)
+elif b > c and b > a:
+  print('\n\nThe greatest is B::',b) 
+
+else:
+  print('\n\nThe greatest is C::', c)
