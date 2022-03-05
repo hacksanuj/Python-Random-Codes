@@ -27,6 +27,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Square or rectangle](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/square_or_rectangle.py)
 
+[Greatst of three numbers](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/greatest_of_three_number.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
