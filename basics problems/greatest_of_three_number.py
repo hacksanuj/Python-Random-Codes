@@ -12,12 +12,13 @@ print('\n\nThe maximum number is ::', max)
 
 
 #with pre-define functions
-# a = int(input('Enter the number A::'))
-# b = int(input('\nEnter the number B::'))
-# c = int(input('\nEnter the number C::'))
 
-# print("\nThe greatest number is :: ", max(a, b, c))
-# print("\nThe minimum number is:: ", min(a, b, c))
+a = int(input('Enter the number A::'))
+b = int(input('\nEnter the number B::'))
+c = int(input('\nEnter the number C::'))
+
+print("\nThe greatest number is :: ", max(a, b, c))
+print("\nThe minimum number is:: ", min(a, b, c))
 
 
 # simple method
