@@ -47,6 +47,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Removing nested tuple](https://github.com/LemonShot/PythonRandonCodes/blob/main/Tuple%20Programs/removing%20nested%20tuple%20from%20tuple.py)
 
+[Youngest and Oldest age](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/youngest_and_oldest_person.py)
+
 
 
 ## Strings Program/Codes 👨‍💻👩‍💻
