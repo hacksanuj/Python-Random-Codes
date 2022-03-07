@@ -29,6 +29,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Greatst of three numbers](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/greatest_of_three_number.py)
 
+[Grading System](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/grading_system.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
