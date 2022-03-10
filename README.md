@@ -31,6 +31,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Grading System](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/grading_system.py)
 
+[Print alphabets](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/loop_letter_of_name.py)
+
 
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
