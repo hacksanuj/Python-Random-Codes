@@ -35,7 +35,7 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Youngest and Oldest age](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/youngest_and_oldest_person.py)
 
-
+[Attandance](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/attandance.py)
 
 ## Tuple Program/Codes 👨‍💻👩‍💻
 
