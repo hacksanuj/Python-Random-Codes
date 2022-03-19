@@ -43,6 +43,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Average and percentage of marks](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/average%20and%20percentage%20of%20marks.py)
 
+[Simple and Compound interest](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/simple%20and%20compound%20interest.py)
+
 ## Tuple Program/Codes 👨‍💻👩‍💻
 
 [Check element is present](https://github.com/LemonShot/PythonRandonCodes/blob/main/Tuple%20Programs/check%20element%20is%20present.py)
