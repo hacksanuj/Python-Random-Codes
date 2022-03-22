@@ -49,6 +49,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Area and Parameter of rectangle](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/rectangle%20proprety.py)
 
+[Area of triangle](https://github.com/hacksanuj/Python-Random-Codes/commit/6fb7a4c9de588b0bee1455b13416ec0ac9c3f1b6)
+
 ## Tuple Program/Codes 👨‍💻👩‍💻
 
 [Check element is present](https://github.com/LemonShot/PythonRandonCodes/blob/main/Tuple%20Programs/check%20element%20is%20present.py)
