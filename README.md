@@ -55,6 +55,8 @@ This repo contains Python program/code which I made in free time. You can check 
 
 [Cicle](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/circle.py)
 
+[Swapping of 2 numbers](https://github.com/hacksanuj/Python-Random-Codes/blob/main/basics%20problems/swapping%20of%20numbers.py)
+
 ## Tuple Program/Codes 👨‍💻👩‍💻
 
 [Check element is present](https://github.com/LemonShot/PythonRandonCodes/blob/main/Tuple%20Programs/check%20element%20is%20present.py)
